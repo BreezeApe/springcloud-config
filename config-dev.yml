@@ -1,2 +1,3 @@
 config:
     dev: tset-config-dev
+    info: tset-config-dev-version:1.0
